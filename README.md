@@ -2,6 +2,7 @@
 
 This application's purpose is to assist in interpreting the evolution of environmental DNA (eDNA) concentration in streams. The application accepts two types of eDNA concentration data: total or by size. Which can be a function of distance or time. There are four main types of analysis that can be performed depending on the data available
 
+This project uses the R programming language. You can download R from [CRAN](https://cran.r-project.org/).
 
 1. **Clone the repository:**
     ```sh
